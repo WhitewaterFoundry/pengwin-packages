@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 23 Oct 2022 16:40:00 +0200
+Source: desktop-base-build-deps
+Binary: desktop-base-build-deps
+Architecture: all
+Version: 11.0.3
+Distribution: unstable
+Urgency: low
+Maintainer: Equivs Dummy Package Generator <root@carlos-desktop.localdomain>
+Changed-By: Equivs Dummy Package Generator <root@carlos-desktop.localdomain>
+Description:
+ desktop-base-build-deps - build-dependencies for desktop-base
+Changes:
+ desktop-base-build-deps (11.0.3) unstable; urgency=low
+ .
+   * First version
+Checksums-Sha1:
+ 660a2d8f1cf1b724020df9f513d75ea9d8f71d32 2180 desktop-base-build-deps_11.0.3_all.deb
+ f88b05a2c786942bee8414000a5a4d49d0b04053 11994 desktop-base-build-deps_11.0.3_amd64.buildinfo
+Checksums-Sha256:
+ d16cf943a707dfed234bd8b56a358ba378234f4c18c796dc24118fb52c526730 2180 desktop-base-build-deps_11.0.3_all.deb
+ c86ba0b1ec644969d04b8e0ce65f52dba5fc4bbf7e33256619e0ef585e4dfcc4 11994 desktop-base-build-deps_11.0.3_amd64.buildinfo
+Files:
+ 6455ad89b8cf62923587ae7310980b33 2180 devel optional desktop-base-build-deps_11.0.3_all.deb
+ daf0c3afb652e12112bd36aaa9e05b54 11994 devel optional desktop-base-build-deps_11.0.3_amd64.buildinfo
